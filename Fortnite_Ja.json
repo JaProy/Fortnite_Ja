@@ -3,8 +3,8 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"MapNONE" : "false"
-    ,"PermissionOpen" : "false"
+    ,"MapNONE" : "true"
+    ,"PermissionOpen" : "true"
    }
  ]
 }
