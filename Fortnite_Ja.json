@@ -3,8 +3,16 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"MapNONE" : "true"
     ,"PermissionOpen" : "false"
+   }
+  "LOBBY":[
+   {
+    "MapNONE": "Creating the new FJA project"
+    ,"ShopDate" : "none"
+    ,"ShopSlot1" : "none"
+    ,"ShopSlot2" : "none"
+    ,"ShopSlot3" : "none"
+    ,"ShopFromBatle" : "none"
    }
  ]
 }
