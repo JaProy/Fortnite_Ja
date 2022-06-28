@@ -11,8 +11,8 @@
   "Lobby":[
    {
     "ShopDate": "Prueba"
-    ,"ShopSlot1" : "Good"
-    ,"ShopSlot2" : "F_Elf_Blue"
+    ,"ShopSlot1" : "F_HolidayPJ_A"
+    ,"ShopSlot2" : "Good"
     ,"ShopSlot3" : "none"
     ,"ShopFromBatle" : "none"
    }
