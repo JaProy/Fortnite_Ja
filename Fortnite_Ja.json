@@ -10,9 +10,9 @@
  ]
   "Lobby":[
    {
-    "ShopDate": "none"
-    ,"ShopSlot1" : "none"
-    ,"ShopSlot2" : "none"
+    "ShopDate": "Prueba"
+    ,"ShopSlot1" : "Good"
+    ,"ShopSlot2" : "F_Elf_Blue"
     ,"ShopSlot3" : "none"
     ,"ShopFromBatle" : "none"
    }
