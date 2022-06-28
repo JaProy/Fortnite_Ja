@@ -7,7 +7,7 @@
     ,"XPMin" : "3000"
     ,"XPDaTa" : "false"
    }
- ]
+ ],
   "Lobby":[
    {
     "ShopDate": "Prueba"
@@ -16,7 +16,7 @@
     ,"ShopSlot3" : "none"
     ,"ShopFromBatle" : "none"
    }
- ]
+ ],
  "GameModes":[
    {
     "MapNONE": "Creating the new FJA project"
