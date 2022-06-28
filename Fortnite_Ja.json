@@ -8,14 +8,18 @@
     ,"XPDaTa" : "false"
    }
  ]
-  "LOBBY":[
+  "Lobby":[
    {
-    "MapNONE": "Creating the new FJA project"
-    ,"ShopDate" : "none"
+    "ShopDate": "none"
     ,"ShopSlot1" : "none"
     ,"ShopSlot2" : "none"
     ,"ShopSlot3" : "none"
     ,"ShopFromBatle" : "none"
+   }
+ ]
+ "GameModes":[
+   {
+    "MapNONE": "Creating the new FJA project"
    }
  ]
 }
