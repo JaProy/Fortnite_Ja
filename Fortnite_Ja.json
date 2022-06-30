@@ -21,6 +21,17 @@
     ,"ShopFromBatle" : "none"
    }
  ],
+   "Noticias":[
+   {
+    "Notice? ": "True" 
+    , "Image": ".com"
+    ,"Title1" : "Text"
+    ,"Title2" : "Text"
+    ,"SubTitle1" : "Text"
+    ,"SubTitle2" : "Text"
+    ,"SubTitle3" : "Text"
+   }
+ ],
  "GameModes":[
    {
     "MapNONE": "true"
