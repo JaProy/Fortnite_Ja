@@ -3,6 +3,7 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
+    ,"LoadingScreenID?" : "Good"
     ,"PermissionOpen" : "false"
     ,"XPMin" : "3000"
     ,"XPDaTa" : "false"
@@ -11,6 +12,8 @@
   "Lobby":[
    {
     "ShopDate": "Prueba"
+    ,"FondoLobbyID?" : "Good"
+    ,"SoundLobbyID?" : "Good"
     ,"ShopSlot1" : "Good"
     ,"ShopSlot2" : "F_Elf_Blue"
     ,"ShopSlot3" : "none"
