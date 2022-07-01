@@ -24,7 +24,8 @@
    "Noticias":[
    {
     "Notice? ": "True" 
-    , "Image": ".com"
+    ,"Image": "https://images.app.goo.gl/LjxAB56MJ4CbXgsd6"
+    ,"ImageMiniature" : "https://images.app.goo.gl/LjxAB56MJ4CbXgsd6"
     ,"Title1" : "Text"
     ,"Title2" : "Text"
     ,"SubTitle1" : "Text"
@@ -34,7 +35,8 @@
  ],
  "GameModes":[
    {
-    "MapNONE": "true"
+    "MapNONE": "True"
+    ,"ModoPractica" : "True"
    }
  ],
   "DataTables":[
