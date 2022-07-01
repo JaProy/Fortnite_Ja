@@ -6,7 +6,6 @@
     ,"LoadingScreenID?" : "0"
     ,"PermissionOpen" : "false"
     ,"XPMin" : "3000"
-    ,"XPDaTa" : "false"
     ,"XPMultiply" : "1"
    }
  ],
@@ -26,17 +25,17 @@
     "Notice?": "True" 
     ,"Image": "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
     ,"ImageMiniature" : "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
-    ,"Title1" : "Text"
-    ,"Title2" : "Text"
-    ,"SubTitle1" : "Text"
-    ,"SubTitle2" : "Text"
-    ,"SubTitle3" : "Text"
+    ,"Title1" : "Ventana De Noticias"
+    ,"Title2" : "Titulo De La Noticia"
+    ,"SubTitle1" : "Aqui va la informacion1"
+    ,"SubTitle2" : "Aqui va la informacion2"
+    ,"SubTitle3" : "Aqui va la informacion3"
    }
  ],
  "GameModes":[
    {
-    "MapNONE": "True"
-    ,"ModoPractica" : "True"
+    "MapNONE": "False"
+    ,"ModoPractica" : "False"
    }
  ],
   "DataTables":[
