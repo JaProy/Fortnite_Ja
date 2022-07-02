@@ -3,7 +3,7 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"LoadingScreenID?" : "0"
+    ,"LoadingScreenID?" : "1"
     ,"PermissionOpen" : "false"
     ,"XPMin" : "3000"
     ,"XPMultiply" : "1"
@@ -12,8 +12,8 @@
   "Lobby":[
    {
     "ShopDate": "Prueba"
-    ,"FondoLobbyID?" : "0"
-    ,"SoundLobbyID?" : "0"
+    ,"FondoLobbyID?" : "2"
+    ,"SoundLobbyID?" : "1"
     ,"ShopSlot1" : "Good"
     ,"ShopSlot2" : "F_Elf_Blue"
     ,"ShopSlot3" : "none"
@@ -25,9 +25,9 @@
     "Notice?": "True" 
     ,"Image": "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
     ,"ImageMiniature" : "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
-    ,"TRTL1" : "-200"
-    ,"Title1" : "Ventana De Noticias"
-    ,"Title2" : "Titulo De La Noticia"
+    ,"TRTL1" : "-10"
+    ,"Title1" : "XP X2"
+    ,"Title2" : "XP al 2X"
     ,"SubTitle1" : "Aqui va la informacion1"
     ,"SubTitle2" : "Aqui va la informacion2"
     ,"SubTitle3" : "Aqui va la informacion3"
