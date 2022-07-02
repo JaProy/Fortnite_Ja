@@ -5,6 +5,7 @@
     ,"Dato" : "Hola bro"
     ,"LoadingScreenID?" : "1"
     ,"PermissionOpen" : "false"
+    ,"ConsumablesInFloor" : "True"
     ,"XPMin" : "3000"
     ,"XPMultiply" : "1"
    }
