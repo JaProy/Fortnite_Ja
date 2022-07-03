@@ -5,15 +5,15 @@
     ,"Dato" : "Hola bro"
     ,"LoadingScreenID?" : "0"
     ,"PermissionOpen" : "false"
-    ,"ConsumablesInFloor" : "True"
+    ,"ConsumablesInFloor" : "false"
     ,"XPMin" : "3000"
-    ,"XPMultiply" : "2"
+    ,"XPMultiply" : "8"
    }
  ],
   "Lobby":[
    {
     "ShopDate": "Prueba"
-    ,"FondoLobbyID?" : "1"
+    ,"FondoLobbyID?" : "3"
     ,"SoundLobbyID?" : "0"
     ,"ShopSlot1" : "Good"
     ,"ShopSlot2" : "F_Elf_Blue"
