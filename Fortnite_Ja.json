@@ -7,13 +7,13 @@
     ,"PermissionOpen" : "false"
     ,"ConsumablesInFloor" : "false"
     ,"XPMin" : "3000"
-    ,"XPMultiply" : "8"
+    ,"XPMultiply" : "1"
    }
  ],
   "Lobby":[
    {
     "ShopDate": "Prueba"
-    ,"FondoLobbyID?" : "3"
+    ,"FondoLobbyID?" : "2"
     ,"SoundLobbyID?" : "0"
     ,"ShopSlot1" : "Good"
     ,"ShopSlot2" : "F_Elf_Blue"
