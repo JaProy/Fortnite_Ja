@@ -5,7 +5,7 @@
     ,"Dato" : "Hola bro"
     ,"LoadingScreenID?" : "0"
     ,"PermissionOpen" : "false"
-    ,"ConsumablesInFloor" : "false"
+    ,"ConsumablesInFloor" : "True"
     ,"XPMin" : "3000"
     ,"XPMultiply" : "1"
    }
@@ -23,12 +23,12 @@
  ],
    "Noticias":[
    {
-    "Notice?": "false" 
+    "Notice?": "True" 
     ,"Image": "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
     ,"ImageMiniature" : "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
-    ,"TRTL1" : "-10"
-    ,"Title1" : "XP X2"
-    ,"Title2" : "XP al 2X"
+    ,"TRTL1" : "-20"
+    ,"Title1" : "Titulo"
+    ,"Title2" : "Subtitulo"
     ,"SubTitle1" : "Aqui va la informacion1"
     ,"SubTitle2" : "Aqui va la informacion2"
     ,"SubTitle3" : "Aqui va la informacion3"
