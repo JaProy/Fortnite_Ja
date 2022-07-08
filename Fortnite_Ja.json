@@ -15,10 +15,15 @@
     "ShopDate": "Prueba"
     ,"FondoLobbyID?" : "4"
     ,"SoundLobbyID?" : "0"
-    ,"ShopSlot1" : "Good"
-    ,"ShopSlot2" : "F_Elf_Blue"
-    ,"ShopSlot3" : "none"
-    ,"ShopFromBatle" : "none"
+    ,"ShopSkin1" : "Good"
+    ,"ShopSkin2" : "F_Elf_Blue"
+    ,"ShopSkin3" : "none"
+    ,"ShopSkin4" : "none"
+    ,"ShopPickaxe1" : "none"
+    ,"ShopBag1" : "none"
+    ,"ShopBag2" : "none"
+    ,"SeassonShop" : "0"
+    ,"SeassonShopDate" : "123"
    }
  ],
    "Noticias":[
@@ -40,9 +45,9 @@
     ,"ModoPractica" : "False"
    }
  ],
-  "DataTables":[
+  "VaRest":[
    {
-    "XPDT": "None"
+    "LinkVaRest": "None"
    }
  ],
    "Codes":[
