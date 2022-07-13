@@ -3,10 +3,10 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"LoadingScreenID?" : "0"
-    ,"PermissionOpen" : "false"
-    ,"ConsumablesInFloor" : "True"
-    ,"XPMin" : "3000"
+    ,"LoadingScreenID?" : "2"
+    ,"PermissionOpen" : "False"
+    ,"ConsumablesInFloor" : "False"
+    ,"XPMin" : "3500"
     ,"XPMultiply" : "1"
    }
  ],
@@ -42,9 +42,9 @@
  "GameModes":[
    {
     "MapNONE": "False"
-    ,"ModoPractica" : "False"
-    ,"OroSolido": "False"
-    ,"ModoZombies": "False"
+    ,"ModoPractica" : "True"
+    ,"OroSolido": "True"
+    ,"ModoZombies": "True"
    }
  ],
   "VaRest":[
