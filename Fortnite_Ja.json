@@ -12,7 +12,7 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "15 de julio"
+    "ShopDate": "17 de julio"
     ,"FondoLobbyID?" : "4"
     ,"SoundLobbyID?" : "0"
     ,"ShopSkin1" : "F_MED_Blue_Jay_Free"
@@ -23,13 +23,13 @@
     ,"ShopBag1" : "M_MED_Shark_Suit_B"
     ,"ShopBag2" : "F_MED_Shark_Suit_B"
     ,"SeassonShop" : "0"
-    ,"SeassonShopDate" : "17 de julio"
+    ,"SeassonShopDate" : "22 de julio"
    }
  ],
    "Noticias":[
    {
     "Notice?": "True" 
-    ,"Image": "https://cdn2.unrealengine.com/fortnite-beach-brutus-beach-jules-midsummer-midas-and-scuba-crystal-1920x1080-b5fcd79c8328.jpg"
+    ,"Image": "https://download1347.mediafire.com/dvdk58ue3omg/erns9kpclsru0bn/T_LS_S17_DaysStore.png"
     ,"ImageMiniature" : "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
     ,"TRTL1" : "-60"
     ,"Title1" : "EVENTO DE VERANO"
