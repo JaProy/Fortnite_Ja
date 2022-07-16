@@ -29,14 +29,14 @@
    "Noticias":[
    {
     "Notice?": "True" 
-    ,"Image": "https://www.mediafire.com/file/v603lmsr4zmtug3/TNTImage.jpg/file"
+    ,"Image": "https://cdn2.unrealengine.com/fortnite-beach-brutus-beach-jules-midsummer-midas-and-scuba-crystal-1920x1080-b5fcd79c8328.jpg"
     ,"ImageMiniature" : "https://www.insidesport.in/wp-content/uploads/2022/06/Screenshot-2022-06-08-094120.png"
-    ,"TRTL1" : "-20"
-    ,"Title1" : "Titulo"
-    ,"Title2" : "Subtitulo"
-    ,"SubTitle1" : "Aqui va la informacion1"
-    ,"SubTitle2" : "Aqui va la informacion2"
-    ,"SubTitle3" : "Aqui va la informacion3"
+    ,"TRTL1" : "-60"
+    ,"Title1" : "EVENTO DE VERANO"
+    ,"Title2" : "Próximamente el 22 de julio"
+    ,"SubTitle1" : "Con modos de juegos nuevos"
+    ,"SubTitle2" : "consumibles nuevos"
+    ,"SubTitle3" : "y más!"
    }
  ],
  "GameModes":[
