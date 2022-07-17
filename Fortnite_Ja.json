@@ -43,8 +43,8 @@
    {
     "MapNONE": "False"
     ,"ModoPractica" : "True"
-    ,"OroSolido": "True"
-    ,"ModoZombies": "True"
+    ,"OroSolido": "False"
+    ,"ModoZombies": "False"
    }
  ],
   "VaRest":[
