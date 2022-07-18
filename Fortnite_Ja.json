@@ -12,13 +12,13 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "18 de julio"
+    "ShopDate": "19 de julio"
     ,"FondoLobbyID?" : "4"
     ,"SoundLobbyID?" : "0"
-    ,"ShopSkin1" : "F_MED_Blue_Jay_Free"
-    ,"ShopSkin2" : "M_MED_Banana_Free"
-    ,"ShopSkin3" : "F_MED_Treasure_Hunter_Fashion_Free"
-    ,"ShopSkin4" : "Good"
+    ,"ShopSkin1" : "M_MED_SharkSuit"
+    ,"ShopSkin2" : "F_MED_Sharksuit"
+    ,"ShopSkin3" : "M_MED_Multibot"
+    ,"ShopSkin4" : "F_MED_Street_Fashion_Red"
     ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale"
     ,"ShopBag1" : "M_MED_Shark_Suit_B"
     ,"ShopBag2" : "F_MED_Shark_Suit_B"
@@ -29,9 +29,9 @@
    "Noticias":[
    {
     "Notice?": "True" 
-    ,"Image": "https://download946.mediafire.com/7ike6e6jfpyg/omwg96u6o35ha9n/BR05_Social_Birthday-1920x1080-000968b16dc9457766aef786a915155a6bf45320.png"
-    ,"ImageMiniature" : "https://download1319.mediafire.com/79zjxco6mayg/ic1qawpakos19ja/Screenshot_20220717_150453.jpg"
-    ,"TRTL1" : "-130"
+    ,"Image": "https://cdn.discordapp.com/attachments/768678782651203584/998704564968628314/BR05_Social_Birthday-1920x1080-000968b16dc9457766aef786a915155a6bf45320.png"
+    ,"ImageMiniature" : "https://cdn.discordapp.com/attachments/768678782651203584/998705129438052543/Screenshot_20220717_150453.jpg"
+    ,"TRTL1" : "-120"
     ,"Title1" : "Aniversario #1"
     ,"Title2" : "Esperalo el 19 de julio"
     ,"SubTitle1" : "Esperalo para poder desbloquear un modo de juego"
