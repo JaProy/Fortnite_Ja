@@ -8,6 +8,7 @@
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "3500"
     ,"XPMultiply" : "1"
+    ,"EventID" : "0"
    }
  ],
   "Lobby":[
