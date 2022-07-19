@@ -8,21 +8,21 @@
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "60000"
     ,"XPMultiply" : "1"
-    ,"EventID" : "0"
+    ,"EventID" : "1"
    }
  ],
   "Lobby":[
    {
-    "ShopDate": "19 de julio"
+    "ShopDate": "22 de julio"
     ,"FondoLobbyID?" : "4"
-    ,"SoundLobbyID?" : "0"
-    ,"ShopSkin1" : "M_MED_SharkSuit"
-    ,"ShopSkin2" : "F_MED_Sharksuit"
-    ,"ShopSkin3" : "M_MED_Multibot"
-    ,"ShopSkin4" : "F_MED_Street_Fashion_Red"
-    ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale"
-    ,"ShopBag1" : "M_MED_Shark_Suit_B"
-    ,"ShopBag2" : "F_MED_Shark_Suit_B"
+    ,"SoundLobbyID?" : "2"
+    ,"ShopSkin1" : "Good"
+    ,"ShopSkin2" : "M_MED_Banana_Free "
+    ,"ShopSkin3" : "Gold"
+    ,"ShopSkin4" : "M_MED_Axl"
+    ,"ShopPickaxe1" : "Birthay "
+    ,"ShopBag1" : "Birthay"
+    ,"ShopBag2" : "M_OrnamentSoldier_B"
     ,"SeassonShop" : "1"
     ,"SeassonShopDate" : "22 de julio"
    }
