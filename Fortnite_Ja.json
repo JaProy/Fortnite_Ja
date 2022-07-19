@@ -7,15 +7,15 @@
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "4000"
-    ,"XPMultiply" : "0.4"
-    ,"EventID" : "1"
+    ,"XPMultiply" : "0.5"
+    ,"EventID" : "0"
    }
  ],
   "Lobby":[
    {
     "ShopDate": "19 de julio"
     ,"FondoLobbyID?" : "4"
-    ,"SoundLobbyID?" : "2"
+    ,"SoundLobbyID?" : "0"
     ,"ShopSkin1" : "M_MED_SharkSuit"
     ,"ShopSkin2" : "F_MED_Sharksuit"
     ,"ShopSkin3" : "M_MED_Multibot"
