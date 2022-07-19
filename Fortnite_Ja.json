@@ -6,7 +6,7 @@
     ,"LoadingScreenID?" : "0"
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
-    ,"XPMin" : "50000"
+    ,"XPMin" : "60000"
     ,"XPMultiply" : "1"
     ,"EventID" : "0"
    }
@@ -21,7 +21,7 @@
     ,"ShopSkin3" : "M_MED_Multibot"
     ,"ShopSkin4" : "F_MED_Street_Fashion_Red"
     ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale"
-    ,"ShopBag1" : "M_MED_Lima_Bean_Pack"
+    ,"ShopBag1" : "M_MED_Shark_Suit_B"
     ,"ShopBag2" : "F_MED_Shark_Suit_B"
     ,"SeassonShop" : "1"
     ,"SeassonShopDate" : "22 de julio"
