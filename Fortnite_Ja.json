@@ -7,7 +7,7 @@
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "3500"
-    ,"XPMultiply" : "1"
+    ,"XPMultiply" : "0.4"
     ,"EventID" : "1"
    }
  ],
