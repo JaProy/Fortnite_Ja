@@ -6,7 +6,7 @@
     ,"LoadingScreenID?" : "1"
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
-    ,"XPMin" : "70000"
+    ,"XPMin" : "80000"
     ,"XPMultiply" : "1"
     ,"EventID" : "0"
    }
