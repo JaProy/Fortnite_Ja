@@ -7,7 +7,7 @@
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "60000"
-    ,"XPMultiply" : "1"
+    ,"XPMultiply" : "1.5"
     ,"EventID" : "0"
    }
  ],
@@ -31,7 +31,7 @@
    {
     "Notice?": "True" 
     ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1000408343275376670/FUro8E0XsAIIvpl.jpg"
-    ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1000073622389534851/Screenshot_20220722_111515.jpg"
+    ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1000487558490361896/Screenshot_20220723_144016.jpg"
     ,"TRTL1" : "-50"
     ,"Title1" : "XP Al 1.5X"
     ,"Title2" : "Obtén mas XP hasta el  25 de Julio 22:00 PM (EDT)" 
