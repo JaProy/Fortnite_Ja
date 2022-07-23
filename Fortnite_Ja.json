@@ -7,7 +7,7 @@
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "60000"
-    ,"XPMultiply" : "1"
+    ,"XPMultiply" : "2"
     ,"EventID" : "0"
    }
  ],
@@ -30,14 +30,14 @@
    "Noticias":[
    {
     "Notice?": "False" 
-    ,"Image": "https://media.discordapp.net/attachments/768678782651203584/999473024069812304/T_LS_S17_DaysStore.png"
+    ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1000408343275376670/FUro8E0XsAIIvpl.jpg"
     ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1000073622389534851/Screenshot_20220722_111515.jpg"
-    ,"TRTL1" : "-150"
-    ,"Title1" : "EVENTO DE VERANO"
-    ,"Title2" : "Esperalo el 22 de julio 14:00 (EDT)" 
-    ,"SubTitle1" : "Con modos de juegos nuevos, una tienda con temática"
-    ,"SubTitle2" : "de verano, el desbloqueo de la tienda de batalla" 
-    ,"SubTitle3" : "consumibles nuevos y mas!"
+    ,"TRTL1" : "-120"
+    ,"Title1" : "XP Al 2X"
+    ,"Title2" : "Obtén el doble de XP hasta el  24 de Julio" 
+    ,"SubTitle1" : "Ahora será más fácil de subir de nivel, pues obtendrás el"
+    ,"SubTitle2" : "doble de XP por partida" 
+    ,"SubTitle3" : "Ejemplo: Antes 4200 de XP, ahora 8400 de XP"
    }
  ],
  "GameModes":[
