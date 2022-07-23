@@ -7,7 +7,7 @@
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "60000"
-    ,"XPMultiply" : "1.5"
+    ,"XPMultiply" : "1"
     ,"EventID" : "0"
    }
  ],
@@ -33,8 +33,8 @@
     ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1000408343275376670/FUro8E0XsAIIvpl.jpg"
     ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1000073622389534851/Screenshot_20220722_111515.jpg"
     ,"TRTL1" : "-120"
-    ,"Title1" : "XP Al 2X"
-    ,"Title2" : "Obtén el doble de XP hasta el  24 de Julio" 
+    ,"Title1" : "XP Al 1.5X"
+    ,"Title2" : "Obtén mas XP hasta el  24 de Julio 14:00 PM (ETD)" 
     ,"SubTitle1" : "Ahora será más fácil de subir de nivel, pues obtendrás el"
     ,"SubTitle2" : "doble de XP por partida" 
     ,"SubTitle3" : "Ejemplo: Antes 4200 de XP, ahora 8400 de XP"
