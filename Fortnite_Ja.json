@@ -42,7 +42,7 @@
  ],
  "GameModes":[
    {
-    "MapNONE": "False"
+    "MapNONE": "True"
     ,"ModoPractica" : "True"
     ,"OroSolido": "True"
     ,"ModoZombies": "True"
