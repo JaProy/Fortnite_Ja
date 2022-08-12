@@ -3,7 +3,7 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"LoadingScreenID?" : "1"
+    ,"LoadingScreenID?" : "0"
     ,"PermissionOpen" : "False"
     ,"ConsumablesInFloor" : "False"
     ,"XPMin" : "60000"
@@ -15,16 +15,16 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "11 de Agosto"
-    ,"FondoLobbyID?" : "3"
-    ,"SoundLobbyID?" : "1"
-    ,"ShopSkin1" : "M_MED_Drift_Summer"
-    ,"ShopSkin2" : "F_MED_Mechanical_Engineer_Summer"
-    ,"ShopSkin3" : "F_MED_Candy_Summer"
-    ,"ShopSkin4" : "F_MED_Jurassic_Archaeology_Summer"
-    ,"ShopPickaxe1" : "Jurassic_Archaeology_Summer_Female_Axe"
-    ,"ShopBag1" : "M_MED_Lima_Bean_Pack"
-    ,"ShopBag2" : "M_MED_Drift_Summer_Pack"
+    "ShopDate": No"
+    ,"FondoLobbyID?" : "0"
+    ,"SoundLobbyID?" : "0"
+    ,"ShopSkin1" : "F_MED_SharkSuit"
+    ,"ShopSkin2" : "M_MED_SharkSuit"
+    ,"ShopSkin3" : "F_MED_Treasure_Hunter_Fashion" 
+    ,"ShopSkin4" : "M_MED_Multibot"
+    ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale
+    ,"ShopBag1" : "F_MED_Shark_Suit_B"
+    ,"ShopBag2" : "M_MED_Shark_Suit_B "
     ,"SeassonShop" : "0"
     ,"SeassonShopDate" : "No Espesificado"
    }
@@ -46,8 +46,8 @@
    {
     "MapNONE": "True"
     ,"ModoPractica" : "True"
-    ,"OroSolido": "True"
-    ,"ModoZombies": "True"
+    ,"OroSolido": "False"
+    ,"ModoZombies": "False"
    }
  ],
   "VaRest":[
