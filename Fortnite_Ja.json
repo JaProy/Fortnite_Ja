@@ -15,14 +15,14 @@
  ],
   "Lobby":[
    {
-    "ShopDate": No"
+    "ShopDate": "No Espesificado" 
     ,"FondoLobbyID?" : "0"
     ,"SoundLobbyID?" : "0"
     ,"ShopSkin1" : "F_MED_SharkSuit"
     ,"ShopSkin2" : "M_MED_SharkSuit"
     ,"ShopSkin3" : "F_MED_Treasure_Hunter_Fashion" 
     ,"ShopSkin4" : "M_MED_Multibot"
-    ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale
+    ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale"
     ,"ShopBag1" : "F_MED_Shark_Suit_B"
     ,"ShopBag2" : "M_MED_Shark_Suit_B "
     ,"SeassonShop" : "0"
