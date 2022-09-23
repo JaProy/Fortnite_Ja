@@ -9,8 +9,8 @@
     ,"XPMin" : "60000"
     ,"XPMultiply" : "1"
     ,"EventID" : "0"
-    ,"DZTest" : "True"
-    ,"MRTest" : "True"
+    ,"DZTest" : "False"
+    ,"MRTest" : "False"
    }
  ],
   "Lobby":[
