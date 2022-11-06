@@ -15,30 +15,30 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "06 de Noviembre" 
+    "ShopDate": "22 de Noviembre" 
     ,"FondoLobbyID?" : "2"
     ,"SoundLobbyID?" : "0"
-    ,"ShopSkin1" : "F_MED_SharkSuit"
-    ,"ShopSkin2" : "M_MED_SharkSuit"
-    ,"ShopSkin3" : "F_MED_Treasure_Hunter_Fashion" 
-    ,"ShopSkin4" : "M_MED_Multibot"
-    ,"ShopPickaxe1" : "Pickaxe_RebirthMedicFemale"
-    ,"ShopBag1" : "F_MED_Shark_Suit_B"
-    ,"ShopBag2" : "M_MED_Shark_Suit_B"
+    ,"ShopSkin1" : "M_MED_Banana"
+    ,"ShopSkin2" : "F_MED_Street_Fashion_Red"
+    ,"ShopSkin3" : "M_MED_Axl" 
+    ,"ShopSkin4" : "F_MED_Candy_Summer"
+    ,"ShopPickaxe1" : "Jurassic_Archeology_Summer_Female_Axe"
+    ,"ShopBag1" : "F_MED_Street_Fashion_Rdd_Pack"
+    ,"ShopBag2" : "M_MED_Lima_Bean_Pack"
     ,"SeassonShop" : "0"
     ,"SeassonShopDate" : "No Espesificado"
    }
  ],
    "Noticias":[
    {
-    "Notice?": "False"
-    ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1006678195417923694/fortnite-verano-imagen-2.webp"
-    ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1000496046247530607/Screenshot_20220723_151317.jpg"
+    "Notice?": "True"
+    ,"Image": ""
+    ,"ImageMiniature" : ""
     ,"TRTL1" : "-100"
-    ,"Title1" : "Próximamente"
-    ,"Title2" : "Evento de verano hasta el 11 de Agosto" 
-    ,"SubTitle1" : "Aprovecha, pues ya casi se van todos los cosmeticos de verano"
-    ,"SubTitle2" : "junto con los modos de juego de este evento" 
+    ,"Title1" : "¡Nuevo Objeto Ítem!" 
+    ,"Title2" : "Busca las (Grietas) que aparecerán en el mapa" 
+    ,"SubTitle1" : "Con este ítem será más fácil buscar a los bots, pero mucho ojo, ya que"
+    ,"SubTitle2" : "la probabilidad de aparición es demaciado baja!" 
     ,"SubTitle3" : "BY: JA Proyect"
    }
  ],
