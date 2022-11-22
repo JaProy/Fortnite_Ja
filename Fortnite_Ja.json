@@ -15,16 +15,16 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "22 de Noviembre" 
-    ,"FondoLobbyID?" : "2"
-    ,"SoundLobbyID?" : "0"
-    ,"ShopSkin1" : "M_MED_Banana"
-    ,"ShopSkin2" : "F_MED_Street_Fashion_Red"
-    ,"ShopSkin3" : "M_MED_Axl"
-    ,"ShopSkin4" : "F_MED_Candy_Summer"
-    ,"ShopPickaxe1" : "Jurassic_Archaeology_Summer_Female_Axe"
-    ,"ShopBag1" : "F_MED_Street_Fashion_Red_Pack"
-    ,"ShopBag2" : "M_MED_Lima_Bean_Pack"
+    "ShopDate": "24 de Noviembre" 
+    ,"FondoLobbyID?" : "1"
+    ,"SoundLobbyID?" : "2"
+    ,"ShopSkin1" : "F_MED_Blue_Jay_Summer"
+    ,"ShopSkin2" : "F_MED_Treasure_Hunter_Fashion_Free"
+    ,"ShopSkin3" : "M_MED_Multibot"
+    ,"ShopSkin4" : "Good"
+    ,"ShopPickaxe1" : "Birthay"
+    ,"ShopBag1" : "Birthay"
+    ,"ShopBag2" : "EXP_Good"
     ,"SeassonShop" : "0"
     ,"SeassonShopDate" : "No Espesificado"
    }
