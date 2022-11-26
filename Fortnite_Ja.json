@@ -15,7 +15,7 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "24 de Noviembre" 
+    "ShopDate": "Con la Actualización" 
     ,"FondoLobbyID?" : "1"
     ,"SoundLobbyID?" : "2"
     ,"ShopSkin1" : "F_MED_Blue_Jay_Summer"
@@ -26,7 +26,7 @@
     ,"ShopBag1" : "Birthay"
     ,"ShopBag2" : "EXP_Good"
     ,"SeassonShop" : "0"
-    ,"SeassonShopDate" : "No Espesificado"
+    ,"SeassonShopDate" : "Con la Actualización"
    }
  ],
    "Noticias":[
